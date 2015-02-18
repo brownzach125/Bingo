@@ -1,5 +1,6 @@
 # Bingo
-
+(if you view the "Raw" version or go to edit it, they are each on different lines)
+#
 Entries:
 OCR project
 Spanish translation project
